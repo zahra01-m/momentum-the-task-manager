@@ -1,0 +1,36 @@
+name: task_manager
+description: Task Management Application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.3
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.4
+  csv: ^6.0.0
+  pdf: ^3.11.1
+  path_provider: ^2.1.4
+  share_plus: ^9.0.0
+  url_launcher: ^6.3.1
+  uuid: ^4.5.1
+  intl: ^0.19.0
+  flutter_slidable: ^3.1.1       # ← Swipe gestures
+  animate_do: ^3.3.4              # ← Smooth animations
+  percent_indicator: ^4.2.3
+  local_auth: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
