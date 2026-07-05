@@ -74,15 +74,17 @@ It was built to demonstrate production-grade Flutter architecture: clean separat
 
 <div align="center">
 
-| Welcome | Home | Add Task | Focus Timer |
+| Welcome | Login | Sign Up | Home |
 |:---:|:---:|:---:|:---:|
-| ![Welcome Screen](screenshots/welcome.png) | ![Home Screen](screenshots/home.png) | ![Add Task](screenshots/add_task.png) | ![Focus Timer](screenshots/focus_timer.png) |
+| ![Welcome Screen](screenshots/welcome.png) | ![Login](screenshots/login.png) | ![Sign Up](screenshots/signup.png) | ![Home Screen](screenshots/home.png) |
 
-| Analytics | Export | Dark Mode | Repeated Tasks |
+| Add Task | Repeat & Checklist | Focus Timer | Notification |
 |:---:|:---:|:---:|:---:|
-| ![Analytics](screenshots/analytics.png) | ![Export](screenshots/export.png) | ![Dark Mode](screenshots/dark_mode.png) | ![Repeated Tasks](screenshots/repeated_tasks.png) |
+| ![Add Task](screenshots/add_task.png) | ![Add Task Checklist](screenshots/add_task_checklist.png) | ![Focus Timer](screenshots/focus_timer.png) | ![Notification](screenshots/notification.png) |
 
-*Replace the placeholders above with real screenshots — drop your images into a `/screenshots` folder in the repo root and update the filenames.*
+| Analytics | Dark Mode | Export | Repeated Tasks |
+|:---:|:---:|:---:|:---:|
+| ![Analytics](screenshots/analytics.png) | ![Dark Mode](screenshots/dark_mode.png) | ![Export](screenshots/export.png) | ![Repeated Tasks](screenshots/repeated_tasks.png) |
 
 </div>
 
